@@ -11,7 +11,7 @@
    To perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
      **link to dataset:**[SampleSuperstore](https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view)
      
-## Task 3 : Exploratory Data Analysis - GlobalTerrorism
+## Task 4: Exploratory Data Analysis - GlobalTerrorism
    As a security/defense analyst, try to find out the hot zone of terrorism and What all security issues and insights you can derive by EDA
     **link to dataset:**[GlobalTerrorism](https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view)
      
