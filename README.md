@@ -14,6 +14,11 @@
 ## Task 4: Exploratory Data Analysis - GlobalTerrorism
    As a security/defense analyst, try to find out the hot zone of terrorism and What all security issues and insights you can derive by EDA
     **link to dataset:**[GlobalTerrorism](https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view)
+    
+## Exploratory Data Analysis - Sports(IPL)
+     As a sports analysts to find out the most successful teams, players and factors contributing win or loss of a team and to suggest teams or players a company should endorse for its products. 
+   **link to dataset:**[Sports(IPL)](https://drive.google.com/file/d/18iDDIIZGt8eWxzqbyMIqcn5X7bHINuLw/view)
+     
      
      
   
