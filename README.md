@@ -18,6 +18,12 @@
 ## Task 5: Exploratory Data Analysis - Sports(IPL)
    As a sports analysts to find out the most successful teams, players and factors contributing win or loss of a team and to suggest teams or players a company should endorse for its products. 
    **link to dataset:**[Sports(IPL)](https://drive.google.com/file/d/18iDDIIZGt8eWxzqbyMIqcn5X7bHINuLw/view)
+   
+## Task 6: Prediction using Decision Tree Algorithm
+   To create the Decision Tree classifier and visualize it graphically
+    **link to dataset:**[Iris Dataset](https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view)
+   
+   
      
      
      
